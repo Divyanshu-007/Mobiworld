@@ -1,5 +1,31 @@
 # MOBIWORLD
 
+## Project description 
+
+The project "MOBIWORLD" is a website designed for buying and selling mobile phones. It provides users with a platform to view and purchase the latest mobile phones available in the market. The website is built using technologies such as React.js, JavaScript, Material-UI, Node.js, Express.js, and MongoDB.
+
+With MOBIWORLD, users can explore a wide range of mobile phones, view their specifications, compare prices, and make purchases securely. The website offers a user-friendly interface, ensuring a seamless and intuitive browsing experience. The use of Material-UI ensures a modern and visually appealing design, enhancing the overall user experience.
+
+To work with the MOBIWORLD website, users need to download and install Node.js, npm, MongoDB, and React. By running the command "npm install," all the necessary dependencies can be installed. The frontend of the website can be started using the command "npm start," which runs on port 3000. Similarly, the backend server can be started using the command "nodemon start," which connects to MongoDB and runs on port 5000.
+
+
+## Points to be included in resume 
+
+1. Experienced in developing a mobile phone buying and selling website using React.js, JavaScript, Material-UI, Node.js, Express.js, and MongoDB.
+2. Proficient in creating a user-friendly interface for seamless browsing and purchasing experiences.
+3. Skilled in utilizing Material-UI for modern and visually appealing website design.
+4. Knowledgeable in integrating backend functionalities using Node.js and Express.js.
+5. Experience in working with MongoDB for database management and connectivity.
+6. Familiarity with the installation and setup of Node.js, npm, and MongoDB for website development.
+7. Strong problem-solving and troubleshooting skills.
+8. Self-motivated and able to work efficiently in both individual and team settings.
+9. Excellent communication and collaboration abilities.
+10. Detail-oriented with a focus on delivering high-quality and scalable web applications.
+
+
+
+
+
 ## Using Technology : REACT.JS, JAVASCRIPT, MATERIAL-UI, NODE.JS, EXPRESS.JS, MONGODB  
 
 ## Process to work :
