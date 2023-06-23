@@ -9,7 +9,7 @@ With MOBIWORLD, users can explore a wide range of mobile phones, view their spec
 To work with the MOBIWORLD website, users need to download and install Node.js, npm, MongoDB, and React. By running the command "npm install," all the necessary dependencies can be installed. The frontend of the website can be started using the command "npm start," which runs on port 3000. Similarly, the backend server can be started using the command "nodemon start," which connects to MongoDB and runs on port 5000.
 
 
-## Points to be included in resume 
+## Points to be included in resume ( TOP 3-4 points are most important ) 
 
 1. Experienced in developing a mobile phone buying and selling website using React.js, JavaScript, Material-UI, Node.js, Express.js, and MongoDB.
 2. Proficient in creating a user-friendly interface for seamless browsing and purchasing experiences.
